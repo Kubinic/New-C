@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C##\14.02.23\a2\bin\Debug\net7.0\a2.exe
+C:\Users\User\Desktop\C##\14.02.23\a2\bin\Debug\net7.0\a2.deps.json
+C:\Users\User\Desktop\C##\14.02.23\a2\bin\Debug\net7.0\a2.runtimeconfig.json
+C:\Users\User\Desktop\C##\14.02.23\a2\bin\Debug\net7.0\a2.dll
+C:\Users\User\Desktop\C##\14.02.23\a2\bin\Debug\net7.0\a2.pdb
+C:\Users\User\Desktop\C##\14.02.23\a2\obj\Debug\net7.0\a2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C##\14.02.23\a2\obj\Debug\net7.0\a2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C##\14.02.23\a2\obj\Debug\net7.0\a2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C##\14.02.23\a2\obj\Debug\net7.0\a2.AssemblyInfo.cs
+C:\Users\User\Desktop\C##\14.02.23\a2\obj\Debug\net7.0\a2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C##\14.02.23\a2\obj\Debug\net7.0\a2.dll
+C:\Users\User\Desktop\C##\14.02.23\a2\obj\Debug\net7.0\refint\a2.dll
+C:\Users\User\Desktop\C##\14.02.23\a2\obj\Debug\net7.0\a2.pdb
+C:\Users\User\Desktop\C##\14.02.23\a2\obj\Debug\net7.0\a2.genruntimeconfig.cache
+C:\Users\User\Desktop\C##\14.02.23\a2\obj\Debug\net7.0\ref\a2.dll
